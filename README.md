@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0704-binary-search](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3921-score-validator](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3921-score-validator) |
 ## Simulation
 |  |
 | ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3921-score-validator](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3921-score-validator) |
 ## Binary Search
 |  |
@@ -42,8 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Hash Table
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
