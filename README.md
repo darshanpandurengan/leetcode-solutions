@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1323-maximum-69-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1534-count-good-triplets) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
