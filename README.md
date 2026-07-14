@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1534-count-good-triplets](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1920-build-array-from-permutation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
