@@ -4,12 +4,12 @@ class Solution(object):
         :type arr: List[int]
         :rtype: bool
         """
-        count = 0
-        for i in arr :
-            if(i % 2  == 1):
-                count += 1
-                if(count == 3):
-                    return True
-            else:
-                count = 0
+        count = 0 
+        for num in arr :
+            if num % 2 == 1  :
+                count += 1 
+            else :
+                count = 0 
+            if count == 3 :
+                return True
         return False
