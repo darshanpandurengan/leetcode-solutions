@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1544-make-the-string-great](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3894-traffic-signal-color](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3921-score-validator) |
 ## Stack
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3894-traffic-signal-color](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3908-valid-digit-number) |
 ## Array
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1920-build-array-from-permutation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3894-traffic-signal-color](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3921-score-validator) |
 ## Binary Search
 |  |
