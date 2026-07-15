@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2119-a-number-after-a-double-reversal](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3908-valid-digit-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3908-valid-digit-number) |
 ## Array
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
