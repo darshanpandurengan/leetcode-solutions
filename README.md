@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3895-count-digit-appearances) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3921-score-validator](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3921-score-validator) |
 ## Simulation
 |  |
