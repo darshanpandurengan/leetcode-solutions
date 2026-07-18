@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
