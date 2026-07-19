@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1441-build-an-array-with-stack-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1534-count-good-triplets](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1920-build-array-from-permutation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1441-build-an-array-with-stack-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
