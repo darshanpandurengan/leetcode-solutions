@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0169-majority-element) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0169-majority-element) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
