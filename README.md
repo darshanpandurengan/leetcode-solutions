@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2544-alternating-digit-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3848-check-digitorial-permutation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3848-check-digitorial-permutation) |
