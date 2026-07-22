@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2544-alternating-digit-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
+| [2651-calculate-delayed-arrival-time](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3099-harshad-number) |
