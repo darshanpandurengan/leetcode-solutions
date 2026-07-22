@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0500-keyboard-row](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0844-backspace-string-compare](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0929-unique-email-addresses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1544-make-the-string-great](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0929-unique-email-addresses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0169-majority-element) |
 | [0500-keyboard-row](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0929-unique-email-addresses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
