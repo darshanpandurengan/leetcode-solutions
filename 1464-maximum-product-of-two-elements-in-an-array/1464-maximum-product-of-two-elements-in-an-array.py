@@ -4,7 +4,5 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        product = max(nums) - 1
-        nums.remove(product + 1)
-        product*=(max(nums)-1)
-        return product
+        nums.sort()
+        return (nums[-1] - 1) * (nums[-2] - 1 )
