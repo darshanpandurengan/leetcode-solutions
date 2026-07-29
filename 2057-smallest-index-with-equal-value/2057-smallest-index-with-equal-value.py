@@ -1,9 +1,5 @@
-class Solution(object):
-    def smallestEqual(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def smallestEqual(self, nums: List[int]) -> int:
         for idx , num in enumerate(nums) :
             if idx % 10 == num :
                 return idx 
