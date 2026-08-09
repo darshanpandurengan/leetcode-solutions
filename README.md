@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0844-backspace-string-compare](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0500-keyboard-row) |
