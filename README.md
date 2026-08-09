@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3174-clear-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3894-traffic-signal-color](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3921-score-validator) |
 ## Stack
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3174-clear-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3174-clear-digits) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3921-score-validator) |
