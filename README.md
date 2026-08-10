@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0929-unique-email-addresses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0929-unique-email-addresses) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0169-majority-element) |
 | [0506-relative-ranks](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1122-relative-sort-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
