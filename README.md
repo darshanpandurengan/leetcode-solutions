@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
