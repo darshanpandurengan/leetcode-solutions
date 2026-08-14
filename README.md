@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2057-smallest-index-with-equal-value](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Brainteaser
