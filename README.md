@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3834-merge-adjacent-equal-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Math
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3834-merge-adjacent-equal-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
