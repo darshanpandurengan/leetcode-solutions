@@ -4,5 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums.sort() 
-        return nums[-1] + nums[-2] - nums[0] 
+        largest = float('-inf')
+        secondlargest = float('-inf')
+        minimum = float('inf')
+        for num in nums:
+            if num > largest:
+                secondlargest = largest
+                largest = num
+            elif num > secondlargest:
+                secondlargest = num
+            if num < minimum:
+                minimum = num
+        return largest + secondlargest - minimum
