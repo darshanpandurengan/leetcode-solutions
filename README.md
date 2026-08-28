@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3908-valid-digit-number) |
+| [3959-check-good-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Array
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3921-score-validator) |
+| [3959-check-good-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Binary Search
 |  |
 | ------- |
