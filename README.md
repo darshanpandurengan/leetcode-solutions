@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
+| [3827-count-monobit-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3827-count-monobit-integers) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Greedy
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3827-count-monobit-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
