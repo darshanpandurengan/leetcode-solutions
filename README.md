@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3843-first-element-with-unique-frequency](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3848-check-digitorial-permutation) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3827-count-monobit-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
