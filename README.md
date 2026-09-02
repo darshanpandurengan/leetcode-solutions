@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2864-maximum-odd-binary-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3174-clear-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
+| [2864-maximum-odd-binary-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3099-harshad-number) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2578-split-with-minimum-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2864-maximum-odd-binary-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3745-maximize-expression-of-three-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bit Manipulation
 |  |
