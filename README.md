@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3731-find-missing-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 ## Divide and Conquer
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3827-count-monobit-integers) |
