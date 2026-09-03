@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 ## Divide and Conquer
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3827-count-monobit-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
