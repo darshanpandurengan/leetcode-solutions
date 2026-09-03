@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0748-shortest-completing-word](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0844-backspace-string-compare](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0929-unique-email-addresses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0929-unique-email-addresses) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0748-shortest-completing-word](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0929-unique-email-addresses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1122-relative-sort-array) |
