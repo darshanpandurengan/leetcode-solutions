@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Manacher
 |  |
 | ------- |
