@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3285-find-indices-of-stable-mountains](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
