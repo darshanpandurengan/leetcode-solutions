@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2806-account-balance-after-rounded-purchase](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2864-maximum-odd-binary-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2928-distribute-candies-among-children-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2928-distribute-candies-among-children-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2708-maximum-strength-of-a-group](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2708-maximum-strength-of-a-group) |
+| [2928-distribute-candies-among-children-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2928-distribute-candies-among-children-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3827-count-monobit-integers) |
@@ -467,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2708-maximum-strength-of-a-group](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2708-maximum-strength-of-a-group) |
+## Combinatorics
+|  |
+| ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2928-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
