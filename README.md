@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3270-find-the-key-of-the-numbers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
