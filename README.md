@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2733-neither-minimum-nor-maximum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2784-check-if-array-is-good](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2708-maximum-strength-of-a-group](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2733-neither-minimum-nor-maximum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2784-check-if-array-is-good](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2784-check-if-array-is-good](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 ## Divide and Conquer
