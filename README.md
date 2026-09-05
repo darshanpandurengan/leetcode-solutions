@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2057-smallest-index-with-equal-value](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1995-count-special-quadruplets](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Manacher
