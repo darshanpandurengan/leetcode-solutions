@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0908-smallest-range-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [0908-smallest-range-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0929-unique-email-addresses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
