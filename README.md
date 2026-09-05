@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1370-increasing-decreasing-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1544-make-the-string-great](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1370-increasing-decreasing-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1603-design-parking-system](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1370-increasing-decreasing-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
