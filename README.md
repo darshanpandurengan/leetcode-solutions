@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0908-smallest-range-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1185-day-of-the-week](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1185-day-of-the-week) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1323-maximum-69-number) |
