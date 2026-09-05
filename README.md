@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [1995-count-special-quadruplets](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2057-smallest-index-with-equal-value](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1995-count-special-quadruplets](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
+| [1995-count-special-quadruplets](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2708-maximum-strength-of-a-group](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2708-maximum-strength-of-a-group) |
