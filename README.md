@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3270-find-the-key-of-the-numbers) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
