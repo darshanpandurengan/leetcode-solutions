@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3174-clear-digits) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3894-traffic-signal-color](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3894-traffic-signal-color) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3843-first-element-with-unique-frequency](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3848-check-digitorial-permutation) |
 ## Hash Table
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3731-find-missing-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 ## Divide and Conquer
