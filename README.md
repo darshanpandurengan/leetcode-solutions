@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3270-find-the-key-of-the-numbers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3360-stone-removal-game](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3834-merge-adjacent-equal-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
