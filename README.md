@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3921-score-validator](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3921-score-validator) |
+| [4020-elevator-requests-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Simulation
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3921-score-validator) |
 | [3959-check-good-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3959-check-good-integer) |
+| [4020-elevator-requests-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Binary Search
 |  |
 | ------- |
