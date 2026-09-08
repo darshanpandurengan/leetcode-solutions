@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3848-check-digitorial-permutation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3848-check-digitorial-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3895-count-digit-appearances) |
