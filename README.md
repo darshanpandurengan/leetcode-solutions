@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0482-license-key-formatting](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0748-shortest-completing-word](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0748-shortest-completing-word) |
