@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0704-binary-search) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0648-replace-words](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0648-replace-words) |
@@ -451,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
