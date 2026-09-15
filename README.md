@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1995-count-special-quadruplets](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3765-complete-prime-number) |
@@ -585,4 +588,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0648-replace-words) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
