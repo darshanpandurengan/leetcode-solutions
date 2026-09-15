@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
