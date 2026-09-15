@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3024-type-of-triangle) |
+| [3028-ant-on-the-boundary](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2899-last-visited-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2899-last-visited-integers) |
+| [3028-ant-on-the-boundary](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3174-clear-digits) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [3028-ant-on-the-boundary](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
