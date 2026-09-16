@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1603-design-parking-system](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1370-increasing-decreasing-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
