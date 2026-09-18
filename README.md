@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1768-merge-strings-alternately](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
