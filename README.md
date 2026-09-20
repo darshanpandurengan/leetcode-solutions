@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0482-license-key-formatting](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0537-complex-number-multiplication](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0648-replace-words](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0748-shortest-completing-word](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0748-shortest-completing-word) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0537-complex-number-multiplication](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0908-smallest-range-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0908-smallest-range-i) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
