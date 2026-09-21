@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
+| [2679-sum-in-a-matrix](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2708-maximum-strength-of-a-group](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2733-neither-minimum-nor-maximum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2679-sum-in-a-matrix](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2899-last-visited-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2899-last-visited-integers) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2578-split-with-minimum-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
+| [2679-sum-in-a-matrix](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2708-maximum-strength-of-a-group](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2733-neither-minimum-nor-maximum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
@@ -596,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
+| [2679-sum-in-a-matrix](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3242-design-neighbor-sum-service](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Manacher
