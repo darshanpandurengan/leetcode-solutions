@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0537-complex-number-multiplication](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0844-backspace-string-compare) |
