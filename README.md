@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2748-number-of-beautiful-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2864-maximum-odd-binary-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2733-neither-minimum-nor-maximum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2748-number-of-beautiful-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2899-last-visited-integers](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2899-last-visited-integers) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2748-number-of-beautiful-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3467-transform-array-by-parity](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2748-number-of-beautiful-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
