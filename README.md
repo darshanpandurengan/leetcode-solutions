@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1920-build-array-from-permutation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1603-design-parking-system](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1646-get-maximum-in-generated-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1920-build-array-from-permutation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1991-find-the-middle-index-in-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
