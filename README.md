@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2460-apply-operations-to-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2293-min-max-game](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2295-replace-elements-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2295-replace-elements-in-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2679-sum-in-a-matrix](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
