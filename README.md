@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0748-shortest-completing-word) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0648-replace-words](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0929-unique-email-addresses](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0705-design-hashset](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0705-design-hashset) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1603-design-parking-system](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [2043-simple-bank-system](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2043-simple-bank-system) |
@@ -774,4 +778,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
