@@ -785,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [0620-not-boring-movies](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Hash Function
