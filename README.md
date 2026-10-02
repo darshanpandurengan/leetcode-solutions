@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2399-check-distances-between-same-letters](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2678-number-of-senior-citizens](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2295-replace-elements-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2399-check-distances-between-same-letters](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2295-replace-elements-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2399-check-distances-between-same-letters](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
