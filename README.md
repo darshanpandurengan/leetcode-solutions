@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1646-get-maximum-in-generated-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
+| [1726-tuple-with-same-product](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1726-tuple-with-same-product) |
 | [1732-find-the-highest-altitude](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1603-design-parking-system](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1726-tuple-with-same-product](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1726-tuple-with-same-product) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1726-tuple-with-same-product](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1726-tuple-with-same-product) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
