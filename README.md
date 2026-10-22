@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1646-get-maximum-in-generated-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
+| [1720-decode-xored-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1726-tuple-with-same-product](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1726-tuple-with-same-product) |
 | [1732-find-the-highest-altitude](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1720-decode-xored-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
