@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2293-min-max-game](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2295-replace-elements-in-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
