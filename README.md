@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0705-design-hashset) |
