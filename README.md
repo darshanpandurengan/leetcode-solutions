@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-check-if-grid-satisfies-conditions](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3242-design-neighbor-sum-service](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-design-neighbor-sum-service](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
