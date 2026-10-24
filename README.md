@@ -858,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1873-calculate-special-bonus) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3570-find-books-with-no-available-copies](https://github.com/darshanpandurengan/leetcode-solutions/tree/master/3570-find-books-with-no-available-copies) |
 ## Hash Function
 |  |
 | ------- |
